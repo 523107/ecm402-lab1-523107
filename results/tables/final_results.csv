@@ -1,0 +1,9 @@
+Quantity,Value
+Theoretical FSPL(d0),43.32313307305419
+Estimated FSPL(d0),44.62453782759203
+Estimated path-loss exponent n,3.063207482529797
+Estimated shadowing sigma,3.3246572314724716
+Transmit power,50.0
+Predicted path loss at 2 km,145.74193565532414
+Mean received power at 2 km,-95.74193565532414
+Probability Pr > -95 dBm,0.4117048886593091
